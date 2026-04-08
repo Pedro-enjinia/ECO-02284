@@ -1,0 +1,1 @@
+Este programa faz a soma de dois números, utilizando a estrutura de controle de fluxo de execução "while".
