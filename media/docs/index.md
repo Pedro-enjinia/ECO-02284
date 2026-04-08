@@ -1,0 +1,1 @@
+Este programa faz a média de dois ou mais números reais.
