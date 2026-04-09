@@ -1,0 +1,1 @@
+Este programa retorna as raízes do polinômio de segundo grau, cujo usuário informou os coeficientes.
