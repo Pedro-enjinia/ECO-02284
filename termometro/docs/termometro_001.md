@@ -1,0 +1,1 @@
+Este programa avalia se a temperatura do ambiente está agradável.
